@@ -2,7 +2,7 @@
 
 This repository serves as the public canonical boundary for the Unified Magic Methodology (UMM).
 
-It exists to:
+It exists to: CSS
 - Establish public, citable prior art for UMM doctrine
 - Declare authorship, ownership, and governance boundaries
 - Enforce the separation between Doctrine (public) and Execution (licensed)
