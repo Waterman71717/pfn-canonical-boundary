@@ -1,2 +1,61 @@
-# pfn-canonical-boundary
-Public canonical doctrine, governance boundaries, and prior-art publications for the Unified Magic Methodology (UMM). Doctrine is public. Execution is licensed under Process First-Network (PFN).
+# PFN Canonical Boundary Repository
+
+This repository serves as the public canonical boundary for the Unified Magic Methodology (UMM).
+
+It exists to:
+- Establish public, citable prior art for UMM doctrine
+- Declare authorship, ownership, and governance boundaries
+- Enforce the separation between Doctrine (public) and Execution (licensed)
+
+---
+
+## Unified Magic Methodology (UMM)
+
+The Unified Magic Methodology (UMM) is a governed operational doctrine originated and authored by Emmanuel Bakare.
+
+UMM doctrine is publicly referenceable.  
+UMM execution is licensed and governed exclusively by Process First-Network (PFN).
+
+**Doctrine is public. Execution is licensed.**
+
+---
+
+## Scope of This Repository
+
+This repository contains:
+- Canonical doctrine declarations
+- Governance boundary statements
+- Prior art publications
+- Immutable doctrinal specifications
+
+This repository does **not** contain:
+- Implementation playbooks
+- Certification criteria
+- Client delivery frameworks
+- Tooling, software, or execution artifacts
+
+Possession of doctrinal knowledge does not grant execution rights.
+
+---
+
+## Ownership & Stewardship
+
+- Author: Emmanuel Bakare  
+- IP Owner & Commercial Steward: Process First-Network (PFN)  
+- Copyright © 2025 Process First-Network (PFN). All rights reserved.
+
+---
+
+## Legal & Governance Notice
+
+No license, express or implied, is granted to practice, implement, commercialize, teach, certify, or operationalize the Unified Magic Methodology (UMM) without explicit PFN authorization.
+
+Any derivative use outside PFN governance is prohibited.
+
+---
+
+## Canonical Priority
+
+In the event of any conflict between materials published elsewhere and documents in this repository, the contents of this repository govern.
+
+This repository is intentionally public to establish permanent, discoverable prior art.
