@@ -84,3 +84,5 @@ Any derivative use outside PFN governance is prohibited.
 In the event of any conflict between materials published elsewhere and documents in this repository, the contents of this repository govern.
 
 This repository is intentionally public to establish permanent, discoverable prior art.
+
+Update: clarified system principles and architecture layer
